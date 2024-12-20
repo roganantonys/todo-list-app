@@ -17,6 +17,8 @@ This is a simple To-Do List App built with **React Native** using **Expo**. The 
 - **react-native-paper**: Provides UI components such as FAB (Floating Action Button).
 - **JavaScript (JS)**: Programming language used.
 
+## Sample Video
+-App Working Video is added file location -> assets/AppWorkingVideo
 ## Installation
 
 To get started with the project, follow the steps below:
